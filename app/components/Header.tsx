@@ -7,7 +7,9 @@ export default function Header() {
             <span className="text-xl font-semibold text-sky-600">F</span>
           </div>
           <div>
-            <p className="text-sm font-semibold uppercase tracking-[0.3em] text-slate-600">Road Transport Research Group</p>
+            <p className="text-sm font-semibold uppercase tracking-[0.3em] text-slate-600">
+              <span className="font-bold">Road Transport Research Group</span>
+            </p>
             <p className="text-2xl font-bold text-slate-900">FET - UNIVERSITY OF BUEA</p>
           </div>
         </div>

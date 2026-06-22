@@ -17,7 +17,7 @@ export default function HeroBanner() {
             Accident monitoring
           </span>
           <h1 className="text-4xl font-semibold tracking-tight sm:text-5xl lg:text-6xl">
-            Cameroon road incident reporting for regional safety.
+            Cameroon Road Accident Data Collection System
           </h1>
           <p className="max-w-xl text-lg leading-8 text-slate-200">
             Present a visual proof of work with a dashboard inspired by CEREMSS, showing road incidents, regional data and emergency response metrics.

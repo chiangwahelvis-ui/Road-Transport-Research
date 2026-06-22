@@ -20,7 +20,7 @@ export default function HeroBanner() {
             Cameroon Road Accident Data Collection System
           </h1>
           <p className="max-w-xl text-lg leading-8 text-slate-200">
-            Present a visual proof of work with a dashboard inspired by CEREMSS, showing road incidents, regional data and emergency response metrics.
+            We collect accident data on National Highways ONLY.
           </p>
           <div className="flex flex-col gap-3 sm:flex-row">
             <a href="#chart" className="inline-flex items-center justify-center rounded-full bg-sky-600 px-6 py-3 text-sm font-semibold text-white transition hover:bg-sky-500">
